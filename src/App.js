@@ -8,7 +8,6 @@ class App extends Component {
       inputString: "Winter Is Coming",
       spiltWords: [],
       afterWord: [],
-      len: 0
     };
   }
 
